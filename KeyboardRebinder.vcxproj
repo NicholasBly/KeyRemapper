@@ -135,7 +135,6 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="KeyboardRebinder.rc" />
-    <ResourceCompile Include="resources.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="keyrebinder.ico" />

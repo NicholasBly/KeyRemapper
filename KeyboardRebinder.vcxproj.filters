@@ -28,9 +28,6 @@
     <ResourceCompile Include="KeyboardRebinder.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
-    <ResourceCompile Include="resources.rc">
-      <Filter>Resource Files</Filter>
-    </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="keyrebinder.ico">
