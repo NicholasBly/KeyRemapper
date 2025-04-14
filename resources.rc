@@ -1,0 +1,7 @@
+#include <windows.h>
+
+// Icon resource ID
+#define IDI_APPICON 101
+
+// App icon
+IDI_APPICON ICON "keyrebinder.ico"
